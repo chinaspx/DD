@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   s.author             = { "litao" => "litao@rongcloud.cn" }
   s.social_media_url   = "http://www.rongcloud.cn"
   s.platform     = :ios, "8.0"
-  s.source       = { :http => "https://github.com/chinaspx/DD/blob/0ec1f7571e304d623abc5bc2420ce52cf7eeb754/Rong_Cloud_iOS_IM_SDK_v5_1_7_1.zip" }
+  s.source       = { :http => "https://github.com/chinaspx/DD/raw/d29523f495c32575b618cc1a26047b526389a148/Rong_Cloud_iOS_IM_SDK_v5_1_7_1.zip" }
   #s.default_subspec = 'IMLib', 'IMKit'
   s.requires_arc = true
 
